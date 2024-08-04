@@ -14,9 +14,9 @@
 - 📫 How to reach me **pegazjonathan@gmail.com**
 
 - ⚡ Fun fact **I love to cook, but I'm very bad at it**
-<p align="left">
+
   [![JonathanPegaz's GitHub | Stats](https://stats.quira.sh/JonathanPegaz/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=JonathanPegaz)
-</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/jonathan pegaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jonathan pegaz" height="30" width="40" /></a>
