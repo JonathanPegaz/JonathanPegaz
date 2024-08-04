@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **pegazjonathan@gmail.com**
 
-- ⚡ Fun fact **I love to cook, but I'm very bad at it**
-
 [![JonathanPegaz's GitHub | Stats](https://stats.quira.sh/JonathanPegaz/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=JonathanPegaz)
 
 <h3 align="left">Connect with me:</h3>
